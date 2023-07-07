@@ -1,4 +1,4 @@
-class Pythagoras:
+class Triangle:
     def __init__(self,leg1,leg2):
         self.leg1=leg1
         self.leg2=leg2
