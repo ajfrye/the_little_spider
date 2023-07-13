@@ -12,4 +12,4 @@ class Triangle:
     
     def get_leg2(self):
         return self.leg2
-    
+
