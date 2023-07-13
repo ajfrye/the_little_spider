@@ -14,10 +14,6 @@ hyp = t.get_hypotenuse()
 print( 'The hypotenuse is {}'.format(hyp) )
 
 # create another triangle object using the original object
-
-
-
-
 # make the legs twice the size and calculate the new hypotenuse
 new_leg1= t.get_leg1()
 new_leg2= t.get_leg2()
